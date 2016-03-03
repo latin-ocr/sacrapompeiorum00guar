@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sacrapompeiorum00guar_0005.png"; bbox 0 0 1627 2818; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 193 308 1415 390">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 193 308 1415 390">
+     <span class='ocr_line' id='line_1_1' title="bbox 193 308 1415 390; baseline 0.002 -3"><span class='ocrx_word' id='word_1_1' title='bbox 193 313 302 389; x_wconf 94' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 350 308 666 390; x_wconf 81' lang='lat' dir='ltr'>SACRA</span> <span class='ocrx_word' id='word_1_3' title='bbox 721 309 1415 389; x_wconf 84' lang='lat' dir='ltr'>POMPEIORVM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 632 459 965 530">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 632 459 965 530">
+     <span class='ocr_line' id='line_1_2' title="bbox 632 459 965 530; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 632 459 965 530; x_wconf 79' lang='lat' dir='ltr'><strong>NONNVLLA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 489 629 1133 684">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 489 629 1133 684">
+     <span class='ocr_line' id='line_1_3' title="bbox 489 629 1133 684; baseline -0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 489 629 1031 684; x_wconf 87' lang='lat' dir='ltr'><strong>COMMENTARIVM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1063 632 1133 679; x_wconf 84' lang='lat' dir='ltr'><strong>VI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 173 787 1436 864">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 173 787 1436 864">
+     <span class='ocr_line' id='line_1_4' title="bbox 173 787 1436 864; baseline 0 -21"><span class='ocrx_word' id='word_1_7' title='bbox 173 788 772 848; x_wconf 88' lang='lat' dir='ltr'><strong>RAYMVNDI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 852 787 1436 864; x_wconf 72' lang='lat' dir='ltr'><strong>GVARINH,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 334 954 1285 999">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 334 954 1285 999">
+     <span class='ocr_line' id='line_1_5' title="bbox 334 954 1285 999; baseline 0.003 -6"><span class='ocrx_word' id='word_1_9' title='bbox 334 954 664 999; x_wconf 82' lang='lat' dir='ltr'><strong>SOCIETATIS</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 695 954 1054 999; x_wconf 87' lang='lat' dir='ltr'><strong>BORBONICAE</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1084 954 1285 996; x_wconf 78' lang='lat' dir='ltr'>XXVlR.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 623 2163 1010 2209">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 623 2163 1010 2209">
+     <span class='ocr_line' id='line_1_6' title="bbox 623 2163 1010 2209; baseline -0.003 -1"><span class='ocrx_word' id='word_1_12' title='bbox 623 2163 1010 2209; x_wconf 90' lang='lat' dir='ltr'><strong>NEAPOLI</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

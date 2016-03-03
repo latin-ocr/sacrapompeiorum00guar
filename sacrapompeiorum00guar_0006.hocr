@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./sacrapompeiorum00guar_0006.png"; bbox 0 0 1627 2818; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 217 1155 1521 1318">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 217 1155 1521 1318">
+     <span class='ocr_line' id='line_1_1' title="bbox 217 1155 1389 1227; baseline -0.003 -13"><span class='ocrx_word' id='word_1_1' title='bbox 217 1159 297 1214; x_wconf 77' lang='lat' dir='ltr'><strong><em>Ne</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 332 1159 446 1212; x_wconf 78' lang='lat' dir='ltr'><em>libri</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 479 1158 681 1220; x_wconf 80' lang='lat' dir='ltr'><em>molem3</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 719 1159 884 1227; x_wconf 76' lang='lat' dir='ltr'><em>potins</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 931 1159 1103 1208; x_wconf 70' lang='lat' dir='ltr'><em>metire</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1136 1155 1389 1223; x_wconf 80' lang='lat' dir='ltr'><em>laborem,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 373 1246 1521 1318; baseline -0.003 -19"><span class='ocrx_word' id='word_1_7' title='bbox 373 1248 660 1318; x_wconf 65' lang='lat' dir='ltr'><strong><em>Quale-sque</em></strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 696 1250 749 1297; x_wconf 82' lang='lat' dir='ltr'><strong><em>in</em></strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 788 1246 984 1298; x_wconf 83' lang='lat' dir='ltr'><em>modico</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 1021 1247 1351 1299; x_wconf 78' lang='lat' dir='ltr'><strong><em>concilientur</em></strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1385 1263 1521 1316; x_wconf 73' lang='lat' dir='ltr'><strong><em>opes,</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
